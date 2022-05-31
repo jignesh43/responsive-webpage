@@ -369,7 +369,7 @@
     width: 40%;
   }
   .nav_bar{ 
-    float: ;  
+     
       display: flex;
     width: 50%;
     text-align: center;
@@ -405,6 +405,30 @@ display: inline;}
   }
 
 
+.item ul
+{text-decoration: solid;
 
-
+  list-style-type: none;
+  text-align: center;
+  
+}
+.item ul li{text-transform: capitalize;
+  display: flex;
+  width: 8em;
+  display: inline;
+}
+.gal{
+  text-align: center;
+}
+.imageg
+{ width: 100%;
+  justify-content: space-evenly;
+  display: flex;
+}
+.imgg{width: 100%;
+  justify-content: space-evenly;
+  display: flex;
+  margin-top: 2em;
+  
+}
   
