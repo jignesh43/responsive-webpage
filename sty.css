@@ -428,7 +428,63 @@ display: inline;}
 .imgg{width: 100%;
   justify-content: space-evenly;
   display: flex;
-  margin-top: 2em;
+  margin-top: 2em;}
   
-}
+  .container {
+    position: relative;
+  }
+  
+  /* Bottom right text */
+  .text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .jj{
+    width: 84.25em;
+  }
+  .button1 {
+        
+    position: absolute;
+    top: 10.5em;
+    left: 5em;
+    float: right;
+    display: flex;
+    margin-right:0em;
+    margin-block-start: -2em;}
+    .button1 a { float: right;
+        text-decoration: none;
+        background: #011a18 none repeat scroll 0 0;
+        border: 1px solid #f6fafa;
+        color: #fff;
+        font-family: "Raleway",sans-serif;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 10px 15px;
+        text-transform: uppercase;
+        text-decoration: none;}
+        .button2 {
+    
+            position: absolute;
+            top: 10.5em;
+            left: 18em;
+            float: right;
+            display: flex;
+            margin-right:0em;
+            margin-block-start: -2em;}
+            .button2 a { float: right;
+                text-decoration: none;
+                background: #011a18 none repeat scroll 0 0;
+                border: 1px solid #f6fafa;
+                color: #fff;
+                font-family: "Raleway",sans-serif;
+                font-size: 14px;
+                font-weight: bold;
+                padding: 10px 15px;
+                text-transform: uppercase;
+                text-decoration: none;}
   
